@@ -3,7 +3,6 @@
 A beginner-friendly machine learning project that tests whether past returns and daily price range can classify whether the Nepal Stock Exchange (NEPSE) index will close higher in the next trading session.
 
 ## Research question
-
 Using only information available at the close of session *t* (past index returns and daily range), can machine learning classify whether the NEPSE index closes higher at session *t+1*?
 
 ## Data
